@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/alysson/.nuget/packages/": {}
+    "C:\\Users\\20192ewbj0191\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alysson/Projetos/CSProjects/api/api.csproj",
+      "projectUniqueName": "C:\\Users\\20192ewbj0191\\Documents\\CSharpProjects\\LearnCS\\api.csproj",
       "projectName": "api",
-      "projectPath": "/home/alysson/Projetos/CSProjects/api/api.csproj",
-      "packagesPath": "/home/alysson/.nuget/packages/",
-      "outputPath": "/home/alysson/Projetos/CSProjects/api/obj/",
+      "projectPath": "C:\\Users\\20192ewbj0191\\Documents\\CSharpProjects\\LearnCS\\api.csproj",
+      "packagesPath": "C:\\Users\\20192ewbj0191\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\20192ewbj0191\\Documents\\CSharpProjects\\LearnCS\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/alysson/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\20192ewbj0191\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,20 +56,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.12, 6.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[6.0.12, 6.0.12]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.12, 6.0.12]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -76,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
