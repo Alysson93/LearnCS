@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "3/M4leHjKeQ+U0Tld7DiIUT0skxGUCNlwDiaSeuBRW6JzsCMv0s06HCaMOBWUSkDxvPSqY1vvH4S5+y1jxb1MA==",
+  "success": true,
+  "projectFilePath": "/home/alysson/Projetos/CSProjects/api/api.csproj",
+  "expectedPackageFiles": [
+    "/home/alysson/.nuget/packages/microsoft.netcore.app.ref/6.0.12/microsoft.netcore.app.ref.6.0.12.nupkg.sha512",
+    "/home/alysson/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.12/microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "/home/alysson/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.12/microsoft.netcore.app.host.linux-x64.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
