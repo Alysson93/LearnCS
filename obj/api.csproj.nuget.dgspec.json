@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\20192ewbj0191\\Documents\\CSharpProjects\\LearnCS\\api.csproj": {}
+    "/home/alysson/Projetos/CSProjects/api/api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\20192ewbj0191\\Documents\\CSharpProjects\\LearnCS\\api.csproj": {
+    "/home/alysson/Projetos/CSProjects/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\20192ewbj0191\\Documents\\CSharpProjects\\LearnCS\\api.csproj",
+        "projectUniqueName": "/home/alysson/Projetos/CSProjects/api/api.csproj",
         "projectName": "api",
-        "projectPath": "C:\\Users\\20192ewbj0191\\Documents\\CSharpProjects\\LearnCS\\api.csproj",
-        "packagesPath": "C:\\Users\\20192ewbj0191\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\20192ewbj0191\\Documents\\CSharpProjects\\LearnCS\\obj\\",
+        "projectPath": "/home/alysson/Projetos/CSProjects/api/api.csproj",
+        "packagesPath": "/home/alysson/.nuget/packages/",
+        "outputPath": "/home/alysson/Projetos/CSProjects/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\20192ewbj0191\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/alysson/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,6 +48,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.12, 6.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.12, 6.0.12]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -58,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }
